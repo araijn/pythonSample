@@ -52,8 +52,7 @@ null
         }
     },
     "required": [
-        "title",
-        "body"
+        "title"
     ],
     "type": "object"
 }
